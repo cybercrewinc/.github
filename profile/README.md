@@ -2,7 +2,15 @@
 
 <h1 align="center">🛡️ Welcome to CyberCrew Inc</h1>
 <h3 align="center">Offensive Security · Threat Intelligence · Cyber Defense</h3>
+CyberCrewは、「インターネットを利用するすべての人が安心して利用できる環境を創る」という理念のもと、攻撃者視点に立った実践的なサイバーセキュリティサービスを提供します。世界大会（CTF）優勝者やOSCPなど国際資格保有者が在籍し、高度な専門性を有するチームで、以下のサービスを展開しています。
 
+攻撃者視点に基づくペネトレーションテスト（標的型・シナリオ型・LLM対応）
+
+ダークウェブモニタリングによる情報漏えいリスクの早期発見
+
+ホワイトハッカーの知見を活かした脅威対策・セキュリティ設計支援
+
+単なる脆弱性診断にとどまらず、「どのように攻撃が成立するのか」「どうすれば防げるのか」を明確にし、再現性の高い対策を提案します。
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=We+Hunt+Threats.+We+Break+Barriers.;Red+Teaming+|+Pentesting+|+SecOps+Automation;Securing+Tomorrow%2C+Today." alt="Typing banner" />
 </p>
