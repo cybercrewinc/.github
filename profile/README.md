@@ -57,3 +57,33 @@ We help organizations stay ahead of threats by simulating attacks and building s
 ## 💬 Our Motto
 
 > “We break things to make them stronger.”
+>
+> お問い合わせ先
+
+## 株式会社CyberCrew
+
+Tel：03-6853-5823
+
+Mail：info@cybercrew.co.jp
+
+### 会社概要
+
+会社名：株式会社CyberCrew
+
+所在地：東京都千代田区外神田1-18-13 秋葉原ダイビル6階
+
+設立：2025年4月
+
+代表取締役：香川健志
+
+事業内容：
+
+セキュリティ診断・リスク評価
+
+ペネトレーションテスト（標的型・シナリオ型・LLMペンテスト）
+
+ ダークウェブモニタリング
+
+ REDチーム演習・ソーシャルエンジニアリング
+
+セキュアシステム設計・コンサルティング
